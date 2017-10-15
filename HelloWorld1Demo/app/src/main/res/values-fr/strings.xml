@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld1Demo</string>
+    <string name="userName_label">Nom d\'utilisateur</string>
+    <string name="password_label">Mot de passe</string>
+    <string name="loginBtn">S\'identifier</string>
+    <string name="userName_input">Entrez le nom d\'utilisateur</string>
+    <string name="password_input">Entrer le mot de passe</string>
+</resources>
